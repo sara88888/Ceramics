@@ -1,2 +1,2 @@
-# ProjetoA
+# Ceramics
 Interface de imagens clicáveis 
